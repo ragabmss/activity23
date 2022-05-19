@@ -1,0 +1,220 @@
+2022-05-13 16:39:36,428 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-05-13 16:40:11,642 [Worker-7: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservices.fasttrack:EurekaServiceRegistry:0.0.1-SNAPSHOT @ /Users/raghavmohan/Desktop/dockerimages/EurekaServiceRegistry/pom.xml.
+2022-05-13 16:40:11,816 [Worker-7: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.msactivity:CurrencyConversionFactor:0.0.1-SNAPSHOT @ /Users/raghavmohan/Desktop/dockerimages/CurrencyConversionFactor/pom.xml.
+2022-05-13 16:40:11,924 [Worker-7: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservices.fasttrack:CurrencyConverted:0.0.1-SNAPSHOT @ /Users/raghavmohan/Desktop/dockerimages/CurrencyConverted/pom.xml.
+2022-05-13 16:40:12,398 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EurekaServiceRegistry/src/main/java
+2022-05-13 16:40:12,398 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EurekaServiceRegistry/src/main/resources
+2022-05-13 16:40:12,398 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EurekaServiceRegistry/src/main/resources
+2022-05-13 16:40:12,398 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EurekaServiceRegistry/src/test/java
+2022-05-13 16:40:12,472 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CurrencyConversionFactor/src/main/java
+2022-05-13 16:40:12,472 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CurrencyConversionFactor/src/main/resources
+2022-05-13 16:40:12,472 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CurrencyConversionFactor/src/main/resources
+2022-05-13 16:40:12,472 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CurrencyConversionFactor/src/test/java
+2022-05-13 16:40:12,549 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CurrencyConverted/src/main/java
+2022-05-13 16:40:12,550 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CurrencyConverted/src/main/resources
+2022-05-13 16:40:12,550 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CurrencyConverted/src/main/resources
+2022-05-13 16:40:12,550 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CurrencyConverted/src/test/java
+2022-05-13 16:40:12,615 [Worker-7: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 3 project(s) in 1 sec
+2022-05-13 16:40:13,349 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-13 16:40:13,349 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-13 16:40:13,350 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-13 16:40:13,361 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-13 16:40:13,363 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-13 16:40:13,363 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-13 16:40:13,363 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raghavmohan/Desktop/dockerimages/CurrencyConversionFactor/src/test/resources
+2022-05-13 16:40:13,567 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-13 16:40:13,567 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-13 16:40:13,567 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-13 16:40:13,568 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-13 16:40:13,569 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-13 16:40:13,569 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-13 16:40:13,569 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raghavmohan/Desktop/dockerimages/CurrencyConverted/src/test/resources
+2022-05-13 16:40:13,758 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-13 16:40:13,758 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-13 16:40:13,758 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-13 16:40:13,759 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-13 16:40:13,760 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-13 16:40:13,760 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-13 16:40:13,760 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raghavmohan/Desktop/dockerimages/EurekaServiceRegistry/src/test/resources
+2022-05-13 16:41:58,819 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-05-13 16:42:04,184 [Worker-22: Launching EurekaServiceRegistry] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/raghavmohan/Desktop/dockerimages/EurekaServiceRegistry
+2022-05-13 16:42:04,185 [Worker-22: Launching EurekaServiceRegistry] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B spring-boot:run
+2022-05-13 16:42:29,743 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-05-13 16:42:34,453 [Worker-10: Launching CurrencyConversionFactor] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/raghavmohan/Desktop/dockerimages/CurrencyConversionFactor
+2022-05-13 16:42:34,453 [Worker-10: Launching CurrencyConversionFactor] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B spring-boot:run
+2022-05-13 16:46:46,236 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-05-13 16:46:51,428 [Worker-26: Launching CurrencyConverted] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/raghavmohan/Desktop/dockerimages/CurrencyConverted
+2022-05-13 16:46:51,428 [Worker-26: Launching CurrencyConverted] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B spring-boot:run
+2022-05-13 16:53:29,203 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-05-13 16:53:45,363 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-05-13 16:56:36,315 [Worker-29: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.msactivity:CurrencyConversionFactor:0.0.1-SNAPSHOT @ /Users/raghavmohan/Desktop/dockerimages/CurrencyConversionFactor/pom.xml.
+2022-05-13 16:56:36,525 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-13 16:56:36,525 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-13 16:56:36,526 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-13 16:56:36,526 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-13 16:56:36,526 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-13 16:56:36,526 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-13 16:56:36,526 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raghavmohan/Desktop/dockerimages/CurrencyConversionFactor/src/test/resources
+2022-05-13 16:56:46,105 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-05-13 16:57:26,624 [Worker-15: Launching CurrencyConversionFactor (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/raghavmohan/Desktop/dockerimages/CurrencyConversionFactor
+2022-05-13 16:57:26,624 [Worker-15: Launching CurrencyConversionFactor (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B spring-boot:build-image -DskipTests
+2022-05-13 17:05:18,997 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-05-13 17:06:22,060 [Worker-36: Launching CurrencyConversionFactor (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/raghavmohan/Desktop/dockerimages/CurrencyConversionFactor
+2022-05-13 17:06:22,060 [Worker-36: Launching CurrencyConversionFactor (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B spring-boot:build-image -DskipTests
+2022-05-15 02:12:23,878 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 02:12:23,878 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 02:12:23,878 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-15 02:12:23,878 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-15 02:12:23,879 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 02:12:23,879 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 02:12:23,879 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raghavmohan/Desktop/dockerimages/CurrencyConversionFactor/src/test/resources
+2022-05-15 02:12:36,305 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 02:12:36,305 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 02:12:36,305 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-15 02:12:36,305 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-15 02:12:36,306 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 02:12:36,306 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 02:12:36,306 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raghavmohan/Desktop/dockerimages/CurrencyConversionFactor/src/test/resources
+2022-05-15 02:13:32,549 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 02:13:32,549 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 02:13:32,549 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-15 02:13:32,549 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-15 02:13:32,550 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 02:13:32,550 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 02:13:32,550 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raghavmohan/Desktop/dockerimages/CurrencyConversionFactor/src/test/resources
+2022-05-15 02:13:46,122 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 02:13:46,123 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 02:13:46,124 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-15 02:13:46,133 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-15 02:13:46,134 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 02:13:46,134 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 02:13:46,134 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raghavmohan/Desktop/dockerimages/CurrencyConversionFactor/src/test/resources
+2022-05-15 02:15:53,351 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 02:15:53,353 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 02:15:53,353 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-15 02:15:53,353 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-15 02:15:53,354 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 02:15:53,354 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 02:15:53,354 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raghavmohan/Desktop/dockerimages/CurrencyConversionFactor/src/test/resources
+2022-05-15 02:17:14,787 [Worker-42: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.msactivity:CurrencyConversionFactor:0.0.1-SNAPSHOT @ /Users/raghavmohan/Desktop/dockerimages/CurrencyConversionFactor/pom.xml.
+2022-05-15 02:17:15,106 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 02:17:15,106 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 02:17:15,106 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-15 02:17:15,106 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-15 02:17:15,106 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 02:17:15,106 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 02:17:15,106 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raghavmohan/Desktop/dockerimages/CurrencyConversionFactor/src/test/resources
+2022-05-15 02:18:12,129 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 02:18:12,129 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 02:18:12,129 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-15 02:18:12,129 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-15 02:18:12,129 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 02:18:12,129 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 02:18:12,129 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raghavmohan/Desktop/dockerimages/CurrencyConversionFactor/src/test/resources
+2022-05-15 02:19:35,662 [Worker-45: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservices.fasttrack:EurekaServiceRegistry:0.0.1-SNAPSHOT @ /Users/raghavmohan/Desktop/dockerimages/EurekaServiceRegistry/pom.xml.
+2022-05-15 02:19:35,905 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 02:19:35,905 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 02:19:35,905 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-15 02:19:35,905 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-15 02:19:35,906 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 02:19:35,906 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 02:19:35,906 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raghavmohan/Desktop/dockerimages/EurekaServiceRegistry/src/test/resources
+2022-05-15 02:20:15,845 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 02:20:15,845 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 02:20:15,845 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-15 02:20:15,845 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-15 02:20:15,846 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 02:20:15,846 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 02:20:15,846 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raghavmohan/Desktop/dockerimages/EurekaServiceRegistry/src/test/resources
+2022-05-15 02:21:51,932 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 02:21:51,933 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 02:21:51,933 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-15 02:21:51,933 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-15 02:21:51,933 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 02:21:51,933 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 02:21:51,933 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raghavmohan/Desktop/dockerimages/EurekaServiceRegistry/src/test/resources
+2022-05-15 02:22:28,372 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 02:22:28,373 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 02:22:28,373 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-15 02:22:28,373 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-15 02:22:28,373 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 02:22:28,373 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 02:22:28,373 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raghavmohan/Desktop/dockerimages/EurekaServiceRegistry/src/test/resources
+2022-05-15 02:22:37,470 [Worker-42: Launching Executing install in _Users_raghavmohan_Desktop_dockerimages_EurekaServiceRegistry] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/raghavmohan/Desktop/dockerimages/EurekaServiceRegistry
+2022-05-15 02:22:37,470 [Worker-42: Launching Executing install in _Users_raghavmohan_Desktop_dockerimages_EurekaServiceRegistry] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2022-05-15 02:23:10,535 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 02:23:10,535 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 02:23:10,535 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-15 02:23:10,545 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-15 02:23:10,547 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 02:23:10,547 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 02:23:10,547 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raghavmohan/Desktop/dockerimages/EurekaServiceRegistry/src/test/resources
+2022-05-15 02:23:40,059 [Worker-41: Launching Executing install in _Users_raghavmohan_Desktop_dockerimages_CurrencyConversionFactor] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/raghavmohan/Desktop/dockerimages/CurrencyConversionFactor
+2022-05-15 02:23:40,059 [Worker-41: Launching Executing install in _Users_raghavmohan_Desktop_dockerimages_CurrencyConversionFactor] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2022-05-15 02:24:09,590 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 02:24:09,591 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 02:24:09,591 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-15 02:24:09,591 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-15 02:24:09,591 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 02:24:09,591 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 02:24:09,591 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raghavmohan/Desktop/dockerimages/CurrencyConversionFactor/src/test/resources
+2022-05-15 02:24:48,185 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 02:24:48,185 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 02:24:48,185 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-15 02:24:48,186 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-15 02:24:48,187 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 02:24:48,187 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 02:24:48,187 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raghavmohan/Desktop/dockerimages/CurrencyConverted/src/test/resources
+2022-05-15 02:25:34,024 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 02:25:34,025 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 02:25:34,025 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-15 02:25:34,025 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-15 02:25:34,025 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 02:25:34,025 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 02:25:34,025 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raghavmohan/Desktop/dockerimages/CurrencyConverted/src/test/resources
+2022-05-15 02:26:06,603 [Worker-43: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservices.fasttrack:CurrencyConverted:0.0.1-SNAPSHOT @ /Users/raghavmohan/Desktop/dockerimages/CurrencyConverted/pom.xml.
+2022-05-15 02:26:06,848 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 02:26:06,848 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 02:26:06,848 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-15 02:26:06,848 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-15 02:26:06,849 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 02:26:06,849 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 02:26:06,849 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raghavmohan/Desktop/dockerimages/CurrencyConverted/src/test/resources
+2022-05-15 02:26:38,103 [Worker-42: Launching Executing install in _Users_raghavmohan_Desktop_dockerimages_CurrencyConverted] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/raghavmohan/Desktop/dockerimages/CurrencyConverted
+2022-05-15 02:26:38,103 [Worker-42: Launching Executing install in _Users_raghavmohan_Desktop_dockerimages_CurrencyConverted] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2022-05-15 02:27:06,233 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 02:27:06,233 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 02:27:06,233 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-15 02:27:06,234 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-15 02:27:06,235 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 02:27:06,235 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 02:27:06,235 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raghavmohan/Desktop/dockerimages/CurrencyConverted/src/test/resources
+2022-05-15 03:12:58,215 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 03:12:58,216 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 03:12:58,216 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-15 03:12:58,216 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-15 03:12:58,217 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 03:12:58,217 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 03:12:58,217 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raghavmohan/Desktop/dockerimages/EurekaServiceRegistry/src/test/resources
+2022-05-15 03:23:32,498 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 03:23:32,499 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 03:23:32,499 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-15 03:23:32,500 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-15 03:23:32,500 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 03:23:32,500 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 03:23:32,500 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raghavmohan/Desktop/dockerimages/CurrencyConverted/src/test/resources
+2022-05-15 03:23:41,223 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 03:23:41,224 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 03:23:41,224 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-15 03:23:41,224 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-15 03:23:41,225 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-15 03:23:41,225 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-15 03:23:41,225 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raghavmohan/Desktop/dockerimages/CurrencyConversionFactor/src/test/resources
+2022-05-16 22:07:05,874 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-05-16 22:07:08,019 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-16 22:07:08,019 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-16 22:07:08,020 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-16 22:07:08,030 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-16 22:07:08,032 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-16 22:07:08,032 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-16 22:07:08,032 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/raghavmohan/Desktop/dockerimages/CurrencyConversionFactor/src/test/resources
